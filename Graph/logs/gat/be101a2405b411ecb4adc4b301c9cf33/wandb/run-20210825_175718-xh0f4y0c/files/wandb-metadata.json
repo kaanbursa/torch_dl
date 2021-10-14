@@ -1,0 +1,24 @@
+{
+    "os": "Darwin-20.5.0-x86_64-i386-64bit",
+    "python": "3.7.10",
+    "heartbeatAt": "2021-08-25T14:57:22.989198",
+    "startedAt": "2021-08-25T14:57:18.326274",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/kaanbursa/Library/Jupyter/runtime/kernel-c80032b3-491e-4a29-b125-b159d69f6adb.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": null,
+        "commit": null
+    },
+    "email": "kaanbursa9@gmail.com",
+    "root": "/Users/kaanbursa/Desktop/AI",
+    "host": "Kaans-MacBook-Pro-2.local",
+    "username": "kaanbursa",
+    "executable": "/Users/kaanbursa/opt/anaconda3/envs/torch/bin/python"
+}

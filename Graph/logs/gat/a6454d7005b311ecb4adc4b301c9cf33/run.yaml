@@ -1,0 +1,15 @@
+comment: ''
+commit: unknown
+commit_message: ''
+is_dirty: true
+load_run: null
+name: gat
+notes: ''
+python_file: notebook.ipynb
+repo_remotes: []
+start_step: 0
+tags:
+- gat
+trial_date: '2021-08-25'
+trial_time: '17:49:28'
+uuid: a6454d7005b311ecb4adc4b301c9cf33

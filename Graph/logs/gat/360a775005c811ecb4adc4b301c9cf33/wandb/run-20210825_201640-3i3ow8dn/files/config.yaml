@@ -1,0 +1,55 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.10.30
+    framework: torch
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    python_version: 3.7.10
+    start_time: 1629911810
+    t:
+      1:
+      - 1
+      4: 3.7.10
+      5: 0.10.30
+      8:
+      - 1
+      - 5
+dataset:
+  desc: null
+  value: CoraDataset
+device:
+  desc: null
+  value: cpu
+device.cuda_device:
+  desc: null
+  value: 0
+device.device:
+  desc: null
+  value: cpu
+device.device_info:
+  desc: null
+  value: CPU
+device.use_cuda:
+  desc: null
+  value: true
+epochs:
+  desc: null
+  value: 1000
+in_features:
+  desc: null
+  value: 1433
+include_edges:
+  desc: null
+  value: true
+n_classes:
+  desc: null
+  value: 7
+n_hidden:
+  desc: null
+  value: 64
+training_samples:
+  desc: null
+  value: 500
